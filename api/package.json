@@ -1,0 +1,8 @@
+{
+  "name": "vetnique-pl-api",
+  "version": "1.0.0",
+  "description": "Azure Functions API for Vetnique P&L app",
+  "engines": {
+    "node": ">=18"
+  }
+}
